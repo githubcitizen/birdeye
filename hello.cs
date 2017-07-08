@@ -5,6 +5,6 @@ public class Hello2
 {
    public static void Main()
    {
-      Console.WriteLine("Good Morning, World!");
+      Console.WriteLine("Hello, World!");
    }
 }
