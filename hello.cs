@@ -5,6 +5,6 @@ public class Hello2
 {
    public static void Main()
    {
-      Console.WriteLine("Hello, World I am from ghgreat!");
+      Console.WriteLine("Hello, World from branch!");
    }
 }
