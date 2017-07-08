@@ -1,0 +1,7 @@
+using system
+
+class hello
+{
+
+
+}
