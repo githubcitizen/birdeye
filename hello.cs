@@ -1,7 +1,10 @@
-using system
+// Hello2.cs
+using System;
 
-class hello
+public class Hello2
 {
-dsfafdasdfajjjjjjjjjjjjjjjjjj
-uuu
+   public static void Main()
+   {
+      Console.WriteLine("Hello, World!");
+   }
 }
